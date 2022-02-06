@@ -1,5 +1,5 @@
 # Website Link: https://virtual-reality-01.herokuapp.com/
-# The website might be slow because of the heroku domin and the parallax happening in home page. Made with ReactJS
+# The website might be slow because of the heroku domin and the parallax happening in home page. Ignore the build file. Made with ReactJS
 
 # Getting Started with Create React App
 

@@ -1,5 +1,5 @@
 # Website Link: https://virtual-reality-01.herokuapp.com/
-https://vr-sarath.vercel.app/
+# https://vr-sarath.vercel.app/
 # The website might be slow because of the domin and the parallax happening
 
 # Getting Started with Create React App

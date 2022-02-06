@@ -1,0 +1,54 @@
+.vr {
+  width: 100%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.vr-container h1 {
+  text-align: center;
+  background: 50% 100% / 50% 50% no-repeat
+    radial-gradient(ellipse at bottom, #fff, transparent, transparent);
+  -webkit-background-clip: text;
+  background-clip: text;
+  color: transparent;
+  font-size: 50px;
+  font-family: "Source Sans Pro", sans-serif;
+  animation: reveal 3000ms ease-in-out forwards 200ms,
+    glow 2500ms linear infinite 2000ms;
+}
+
+#vr-bg {
+  position: absolute;
+  border-radius: 50px;
+  top: 300px;
+  left: 0px;
+  width: 100%;
+}
+#vr-glass {
+  position: absolute;
+  top: 700px;
+  left: 100px;
+  width: 100%;
+  z-index: 9;
+}
+
+#hand-gun {
+  position: absolute;
+  top: 600px;
+  right: 0px;
+  width: 100%;
+}
+
+@keyframes reveal {
+  80% {
+    letter-spacing: 8px;
+  }
+  100% {
+    background-size: 300% 300%;
+  }
+}
+@keyframes glow {
+  40% {
+    text-shadow: 0 0 8px #fff;
+  }
+}

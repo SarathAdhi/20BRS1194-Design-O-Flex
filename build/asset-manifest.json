@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/static/css/main.73f35762.css",
+    "main.js": "/static/js/main.e37d3e44.js",
+    "static/media/p3.jpg": "/static/media/p3.55aaf5f3857069079aec.jpg",
+    "static/media/hand-gun.png": "/static/media/hand-gun.faacdaeabfda0aec2420.png",
+    "static/media/p2.jpg": "/static/media/p2.68654e46fb0ed6b21588.jpg",
+    "static/media/vr2-edited.png": "/static/media/vr2-edited.7b06a339f2e5d684f1f6.png",
+    "static/media/pngegg.png": "/static/media/pngegg.2f6d67689a2caf390009.png",
+    "static/media/pngwing.com.png": "/static/media/pngwing.com.19a09998942f0974627e.png",
+    "static/media/backg.jpg": "/static/media/backg.1eb2303582506c8cca5d.jpg",
+    "static/media/stars.png": "/static/media/stars.2abe796fb1e7855eedb7.png",
+    "static/media/p4.jpg": "/static/media/p4.c6980104e9b37baf3a73.jpg",
+    "static/media/p1.jpg": "/static/media/p1.ea8693cee665fcfd1f3f.jpg",
+    "static/media/logo.png": "/static/media/logo.b1f014d51e9593e04308.png",
+    "static/media/p5.jpg": "/static/media/p5.602e2254774a179572a6.jpg",
+    "static/media/p6.jpg": "/static/media/p6.be9aeb2629a048e374d3.jpg",
+    "index.html": "/index.html",
+    "main.73f35762.css.map": "/static/css/main.73f35762.css.map",
+    "main.e37d3e44.js.map": "/static/js/main.e37d3e44.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.73f35762.css",
+    "static/js/main.e37d3e44.js"
+  ]
+}

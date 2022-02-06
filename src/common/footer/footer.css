@@ -1,0 +1,11 @@
+#fademe-footer{
+    opacity:0;
+    transition: 1s;
+  }
+.footer-container{
+    display: flex;
+    justify-content: center;
+    background-color: #8D22DC;
+    margin: 5px;
+    border-radius: 10px;
+}

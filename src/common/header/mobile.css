@@ -1,0 +1,44 @@
+.mobile-navbar {
+  padding: 20px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  position: fixed;
+  transition: all 0.3s ease-in-out;
+  z-index: 900;
+}
+.mobile-navbar-menu {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+  width: 50%;
+  height: 100%;
+  top: 0%;
+  right: 0;
+  position: fixed;
+  border-radius: 10px 0px 0px 10px;
+  background-color: white;
+}
+.mobile-navbar-menu a {
+  text-decoration: none;
+  font-size: 20px;
+  color: black;
+  margin-bottom: 20px;
+}
+.close-icon {
+  display: flex;
+  position: absolute;
+  top: 0;
+  right: 0;
+  width: 40px;
+  margin-bottom: 30px;
+}
+@media only screen and (max-width: 500px) {
+  .navlinks {
+    display: none;
+  }
+  .close-btn {
+    display: block;
+  }
+}

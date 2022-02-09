@@ -52,6 +52,7 @@ body {
   font-weight: 800;
   letter-spacing: 30px;
   transition: all 0.2s ease-in-out;
+  cursor: pointer;
 }
 .alpha1:hover {
   color: #aa19ff;
@@ -157,7 +158,6 @@ body {
   margin: 10px;
   opacity: 1;
   transition: all 0.5s ease-in-out;
-  animation: 1s shake linear;
   border: 2px solid #111;
 }
 .card-img {
@@ -168,6 +168,8 @@ body {
 .card-img img {
   width: 100%;
   z-index: 9;
+  border-radius: 10px;
+  animation: 2s shake linear infinite;
 }
 .description {
   position: absolute;
@@ -183,7 +185,6 @@ body {
   border-radius: 20px;
   border: 2px solid #ca2b65;
   animation: none;
-  
 }
 
 @keyframes shake {
@@ -242,7 +243,7 @@ body {
   .container-one .main-heading {
     margin-top: -300px;
     text-align: center;
-    font-size: 35px;
+    font-size: 50px;
     letter-spacing: 0px;
   }
   #img1 {

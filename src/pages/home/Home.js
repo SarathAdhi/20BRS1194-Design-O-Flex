@@ -3,8 +3,7 @@ import './home.css';
 
 export default function Home() {
 
-    var counters = 10;
-    counters += 1
+
 
     document.addEventListener("mousemove", parallax);
     function parallax(event) {
@@ -40,7 +39,6 @@ export default function Home() {
 
     return (
         <>
-            <h3 className='counters'>Visiters: {counters}</h3>
             <section className="Home">
                 <a href="#bottom"><img className="scroll-img" src="https://img.icons8.com/color/48/000000/double-down--v2.gif" /></a>
                 <div className="container-one">

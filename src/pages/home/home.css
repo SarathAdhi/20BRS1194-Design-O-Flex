@@ -138,8 +138,7 @@ body {
   margin-bottom: 50px;
 }
 .home-2-container h2 {
-  color: #111;
-  text-shadow: 0 0 5px #fff, 0 0 10px #fff, 0 0 40px #0ff, 0 0 80px #0ff;
+  color: white;
 }
 .shop-container {
   display: flex;

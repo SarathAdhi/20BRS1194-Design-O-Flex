@@ -44,7 +44,7 @@ export default function Home() {
     return (
         <>
             <section className="Home">
-                <h3>Visiters: {counter}</h3>
+                <h3 className="visiters">Visiters: {counter}</h3>
                 <a href="#bottom"><img className="scroll-img" src="https://img.icons8.com/color/48/000000/double-down--v2.gif" /></a>
                 <div className="container-one">
                     <h1 className="main-heading">ENTER YOUR OWN</h1>

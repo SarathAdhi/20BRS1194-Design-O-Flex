@@ -1,5 +1,6 @@
 # Website Link: https://virtual-reality-01.herokuapp.com/
-# The website might be slow because of the heroku domin and the parallax happening in home page. Ignore the build file. Made with ReactJS
+# The best place for you to experience the world of Virtual reality and buy VR products. Welcome to VR - Max Experience. Virtual to Real.
+## Made with ReactJS
 
 # Getting Started with Create React App
 

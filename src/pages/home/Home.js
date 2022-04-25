@@ -15,7 +15,7 @@ export default function Home() {
             });
         }
     }
-    let x = 0
+//     let x = 0
     let oldValue = 0
     let newValue = 0
 
@@ -26,7 +26,7 @@ export default function Home() {
         if (newValue === 0) {
             console.log("newValue")
             document.getElementById('img1').id = "img1";
-            x = newValue;
+//             x = newValue;
         }
 
         if (oldValue < newValue) {                  //scroll down

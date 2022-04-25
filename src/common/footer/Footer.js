@@ -6,7 +6,7 @@ function Footer() {
     return (
         <div id='fademe-footer'>
             <div className='footer-container'>
-                <h1 className='heaaa'></h1>
+                <h1 className='heaaa'>FOOTER</h1>
             </div>
         </div>
     )

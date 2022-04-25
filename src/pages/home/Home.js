@@ -15,6 +15,7 @@ export default function Home() {
             });
         }
     }
+    let x = 0
     let oldValue = 0
     let newValue = 0
 

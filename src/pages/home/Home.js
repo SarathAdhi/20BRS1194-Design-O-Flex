@@ -15,7 +15,6 @@ export default function Home() {
             });
         }
     }
-    var x = 0;
     let oldValue = 0
     let newValue = 0
 
@@ -38,14 +37,11 @@ export default function Home() {
         oldValue = newValue;
     });
     
-    let counter = 3;
-    counter+=1;
 
     return (
         <>
             <section className="Home">
-        {/*<h3 className="visiters">Visiters: {counter}</h3>*/}
-                <a href="#bottom"><img className="scroll-img" src="https://img.icons8.com/color/48/000000/double-down--v2.gif" /></a>
+                <a href="#bottom"><img className="scroll-img" src="https://img.icons8.com/color/48/000000/double-down--v2.gif" alt='' /></a>
                 <div className="container-one">
                     <h1 className="main-heading">ENTER YOUR OWN</h1>
                     <div className="vr1-h1">
@@ -68,10 +64,10 @@ export default function Home() {
                     </div>
                 </div>
                 <div className="mouse_move">
-                    <img id="img1" src={require("../../assests/home/pngwing.com.png")} className="mouse" value="5" />
-                    <img id="stars1" src={require("../../assests/home/stars.png")} className="mouse" value="5" />
-                    <img id="stars2" src={require("../../assests/home/stars.png")} className="mouse" value="10" />
-                    <img id="stars3" src={require("../../assests/home/stars.png")} className="mouse" value="8" />
+                    <img id="img1" src={require("../../assests/home/pngwing.com.png")} className="mouse" value="5" alt=''/>
+                    <img id="stars1" src={require("../../assests/home/stars.png")} className="mouse" value="5" alt=''/>
+                    <img id="stars2" src={require("../../assests/home/stars.png")} className="mouse" value="10" alt='' />
+                    <img id="stars3" src={require("../../assests/home/stars.png")} className="mouse" value="8" alt='' />
                 </div>
             </section>
 

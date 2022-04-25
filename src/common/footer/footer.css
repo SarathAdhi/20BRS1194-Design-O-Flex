@@ -5,7 +5,7 @@
 .footer-container{
     display: flex;
     justify-content: center;
-    background-color: #8D22DC;
+/*     background-color: #8D22DC; */
     margin: 5px;
     border-radius: 10px;
 }

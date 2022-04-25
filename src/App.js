@@ -7,7 +7,6 @@ import VR from './pages/vr/vr';
 import Product from './pages/products/product';
 import Contact from './pages/contact/contact';
 import Footer from './common/footer/Footer';
-import FadeIn from 'react-fade-in/lib/FadeIn';
 
 function App() {
 	return (

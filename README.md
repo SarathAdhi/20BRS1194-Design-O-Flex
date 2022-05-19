@@ -1,5 +1,5 @@
 # Website Link: https://virtual-reality-sarath.netlify.app/
-# The best place for you to experience the world of Virtual reality and buy VR products. Welcome to VR - Max Experience. Virtual to Real.
+# Got 1st place in this competition
 ## Made with ReactJS
 
 # Getting Started with Create React App
